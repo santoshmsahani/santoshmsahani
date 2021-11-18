@@ -6,7 +6,7 @@
 # Get in Touch
 * [Personal Website](https://santoshsahani.me/ "Personal Website")
 * [LinkedIn](https://www.linkedin.com/in/santoshsahani/ "LinkedIn")
-* [Instagram](https://www.instagram.com/iamsahani.s/ "Instagram")
+* [Twitter](https://twitter.com/santoshmsahani "Twitter")
 
 
 
