@@ -7,7 +7,7 @@
 * [Portfolio Website](https://santoshmsahani.github.io/ "Portfolio Website")
 * [LinkedIn](https://www.linkedin.com/in/santoshsahani/ "LinkedIn")
 * [Twitter](https://twitter.com/santoshmsahani "Twitter")
-* [Google Developer Profile](g.dev/santoshsahani "Google Developer Profile")
+* [Google Developer Profile](http://g.dev/santoshsahani "Google Developer Profile")
 
 
 
